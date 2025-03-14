@@ -1,2 +1,3 @@
 # 4-bit-mod-up-down-counter
-Verilog code for 4 bit mod up / down counter with testbench
+Verilog code for 4 bit mod up / down counter with testbench using JK flipflops
+
